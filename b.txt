@@ -1,0 +1,5 @@
+now b.text has text!
+
+adding more text to b.text
+
+yet more text
